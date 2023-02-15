@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89b52886-f386-4b0b-bb92-fe96e3dfc495" name="Changes" comment="Resolución ejercicio 1 del Curso de Spring de Open Bootcamp">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fernandoalmanza/ejercicio2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fernandoalmanza/ejercicio2/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fernandoalmanza/ejercicio2/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/beans-ejercicio2.xml" afterDir="false" />
+    <list default="true" id="89b52886-f386-4b0b-bb92-fe96e3dfc495" name="Changes" comment="Resolución ejercicio 1 y 2 del Curso de Spring de Open Bootcamp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Equipo 1/IdeaProjects/ejercicio1y2-spring-ob",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676481674362</updated>
       <workItem from="1676481675520" duration="2504000" />
+      <workItem from="1676494708770" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="Resolución ejercicio 1 del Curso de Spring de Open Bootcamp">
       <created>1676482857183</created>
@@ -76,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676482857183</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Resolución ejercicio 1 y 2 del Curso de Spring de Open Bootcamp">
+      <created>1676494795051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676494795051</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Resolución ejercicio 1 y 2 del Curso de Spring de Open Bootcamp">
+      <created>1676494818680</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676494818680</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Resolución ejercicio 1 del Curso de Spring de Open Bootcamp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolución ejercicio 1 del Curso de Spring de Open Bootcamp" />
+    <MESSAGE value="Resolución ejercicio 1 y 2 del Curso de Spring de Open Bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolución ejercicio 1 y 2 del Curso de Spring de Open Bootcamp" />
   </component>
 </project>
